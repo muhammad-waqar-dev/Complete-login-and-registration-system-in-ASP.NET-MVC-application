@@ -1,0 +1,14 @@
+IF YOU WANT TO USE MY PROJECT FOLLOWED THIS SITE 
+
+https://www.youtube.com/watch?v=gSJFjuWFTdA
+
+https://www.youtube.com/watch?v=qGbpfgVm-M4
+
+
+
+NOTE:open Student_Login_Contrller.cs file in Controllers folder of both part1 and part2 folders
+     and your email id and actual password of gmail account
+
+EXAMPLE.....
+var fromEmail = new MailAddress("XYZ@gmail.com", "John");//enter your emailid and your account name
+var fromEmailPassword = "123456"; //Replace with actual password
